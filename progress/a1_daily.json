@@ -1,35 +1,6 @@
 {
-  "level": "a1",
-  "last_published_lesson": 4,
-  "history": [
-    {
-      "lesson_number": 1,
-      "unit_number": 1,
-      "published_at_madrid": "2026-06-23T20:56:27.199614+02:00",
-      "telegram_message_id": 490,
-      "format": "mp4"
-    },
-    {
-      "lesson_number": 2,
-      "unit_number": 1,
-      "published_at_madrid": "2026-06-23T21:04:55.345022+02:00",
-      "telegram_message_id": 491,
-      "format": "mp4"
-    },
-    {
-      "lesson_number": 3,
-      "unit_number": 1,
-      "published_at_madrid": "2026-06-23T21:18:46.470368+02:00",
-      "telegram_message_id": 492,
-      "format": "mp4"
-    },
-    {
-      "lesson_number": 4,
-      "unit_number": 1,
-      "published_at_madrid": "2026-06-23T21:21:37.945188+02:00",
-      "telegram_message_id": 493,
-      "format": "mp4"
-    }
-  ],
-  "updated_at_madrid": "2026-06-23T21:21:37.945188+02:00"
+"level": "a1",
+"last_published_lesson": 0,
+"history": [],
+"updated_at_madrid": null
 }
